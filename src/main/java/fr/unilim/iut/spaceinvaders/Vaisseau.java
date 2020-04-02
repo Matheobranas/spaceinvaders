@@ -1,6 +1,6 @@
 package fr.unilim.iut.spaceinvaders;
 
-public class Vaisseau {
+public class Vaisseau { 
 
 	int x;
 	int y;

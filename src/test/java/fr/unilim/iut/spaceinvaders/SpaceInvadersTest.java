@@ -161,6 +161,6 @@ import fr.unilim.iut.spaceinvaders.utils.HorsEspaceJeuException;
 			"...............\n" + 
 			"...............\n" + 
 			"V..............\n" , spaceinvaders.recupererEspaceJeuDansChaineASCII());
-		}
+		}  
 
     }

@@ -46,7 +46,7 @@ public class SpaceInvaders {
 	}
 
 	private boolean aUnVaisseau() {
-		return vaisseau!=null;
+		return vaisseau!=null;  
 	}
     
 public void positionnerUnNouveauVaisseau(int x, int y) {
