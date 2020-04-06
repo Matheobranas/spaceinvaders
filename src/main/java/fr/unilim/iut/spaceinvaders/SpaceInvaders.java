@@ -17,20 +17,21 @@ public class SpaceInvaders {
    }
     
     @Override
-	public String toString() {
-		return recupererEspaceJeuDansChaineASCII();
-	}
+  		public String toString() {
+  			return recupererEspaceJeuDansChaineASCII();
+  		}
 
-	public String recupererEspaceJeuDansChaineASCII() {
-		StringBuilder espaceDeJeu = new StringBuilder();
-		for (int y = 0; y < hauteur; y++) {
-			for (int x = 0; x < longueur; x++) {
-				 espaceDeJeu.append(recupererMarqueDeLaPosition(x, y));	
-			}
-			espaceDeJeu.append(MARQUE_FIN_LIGNE);
-		}
-		return espaceDeJeu.toString();
-	}
+  		public String recupererEspaceJeuDansChaineASCII() {
+  			StringBuilder espaceDeJeu = new StringBuilder();
+  			for (int y = 0; y < hauteur; y++) {
+  				for (int x = 0; x < longueur; x++) {
+  					espaceDeJeu.append(recupererMarqueDeLaPosition(x, y));
+  				}
+  				espaceDeJeu.append(MARQUE_FIN_LIGNE);
+  			}
+  			return espaceDeJeu.toString();
+  		}
+
 
 	private char recupererMarqueDeLaPosition(int x, int y) {
 		char marque;
@@ -67,7 +68,7 @@ public void deplacerVaisseauVersLaDroite() {
 }
 
 public void deplacerVaisseauVersLaGauche() {
-    if (vaisseau.abscisse()< (longueur-1)) vaisseau.seDeplacerVersLaGauche();
+	 if (vaisseau.abscisse()< (longueur-1)&&(vaisseau.abscisse()>0)) vaisseau.seDeplacerVersLaGauche();
 }
 
 	
