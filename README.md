@@ -2,22 +2,19 @@
 Projet SpaceInvaders
 
 
-## Semaine n°2: du 6 au 12 Avril
+## Semaine n°3: du 11 au 18 Avril
 ### Sprints et fonctionnalités réalisées
-#### Fonctionnalité n°2 : Dimensionner le vaisseau
+#### Fonctionnalité n°3 : Choisir la vitesse du vaisseau
 
-Story n°1 : Positionner un nouveau vaisseau avec une dimension donnée <br>
-Objectif : Positionner un vaisseau correctement avec un taille prédéfinie
+Story n°1 : Ajouter la vitesse au Vaisseau
+Objectif : Ajouter une vitesse au vaisseau sans régréssion de comportement 
+
+Story n°2 : Régler la vitesse du vaisseau
+Objectif : Donner une vitesse correcte au vaisseau
   
-Story n°2 : Faire en sorte qu'il soit impossible de positionner un nouveau vaisseau qui déborde de l'espace de jeu <br>
-Objectif : Tester que le vaisseau est bien dans l'espace de jeu
-  
-Story n°3 : Déplacer un vaisseau vers la droite en tenant compte de sa dimension <br>
-Objectif : En prennant compte de la taille du vaisseau, le deplacer vers la droite dans l'espace de jeu
-  
-Story n°4 : Déplacer un vaisseau vers la gauche en tenant compte de sa dimension <br>
-Objectif : En prennant compte de la taille du vaisseau, le deplacer vers la gauche dans l'espace de jeu
-  
+Story n°3 : Déplacer le vaisseau
+Objectif : Déplacer le vaisseau avec une vitesse quelconque
+
 --- Diagramme de classes ---
 
 ![Diagramme de classe](https://github.com/RemiLassalle/SpaceInvaders/blob/master/images/Semaine2.gif)
