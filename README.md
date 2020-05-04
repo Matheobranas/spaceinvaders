@@ -20,8 +20,8 @@ Objectif : Déplacer le vaisseau avec une vitesse quelconque
 
 --- Diagramme de classes ---
 
-https://github.com/Matheobranas/spaceinvaders/blob/master/Images/Diagramme_de_classe.gif
+![Diagramme de classe](https://github.com/Matheobranas/spaceinvaders/blob/master/Images/Diagramme_de_classe.gif)
 
 --- Nuage de mots du projet spaceinvaders ---
 
-https://github.com/Matheobranas/spaceinvaders/blob/master/Images/Nuage%20de%20mot.PNG
+![Nuage de mot](https://github.com/Matheobranas/spaceinvaders/blob/master/Images/Nuage%20de%20mot.PNG)
