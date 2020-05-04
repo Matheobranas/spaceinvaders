@@ -24,4 +24,4 @@ https://github.com/Matheobranas/spaceinvaders/blob/master/Images/Diagramme_de_cl
 
 --- Nuage de mots du projet spaceinvaders ---
 
-![Nuage de mots](https://github.com/RemiLassalle/SpaceInvaders/blob/master/images/NdmS2.png)
+https://github.com/Matheobranas/spaceinvaders/blob/master/Images/Nuage%20de%20mot.PNG
