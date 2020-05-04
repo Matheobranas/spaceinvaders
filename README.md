@@ -7,12 +7,15 @@ Projet SpaceInvaders
 #### Fonctionnalité n°3 : Choisir la vitesse du vaisseau
 
 Story n°1 : Ajouter la vitesse au Vaisseau
+
 Objectif : Ajouter une vitesse au vaisseau sans régréssion de comportement 
 
 Story n°2 : Régler la vitesse du vaisseau
+
 Objectif : Donner une vitesse correcte au vaisseau
   
 Story n°3 : Déplacer le vaisseau
+
 Objectif : Déplacer le vaisseau avec une vitesse quelconque
 
 --- Diagramme de classes ---
