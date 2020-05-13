@@ -53,7 +53,7 @@ J'ai eu pas mal de difficulté a faire la dernière partie (Story 5)
 
 --- Diagramme de classes ---
 
-![Diagramme de classe]()
+![Diagramme de classe](https://github.com/Matheobranas/spaceinvaders/blob/master/Images/Diagramme%20de%20classe%204.gif)
 
 --- Nuage de mots du projet spaceinvaders ---
 
