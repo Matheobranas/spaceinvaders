@@ -59,8 +59,23 @@ J'ai eu pas mal de difficulté a faire la dernière partie (Story 5)
 
 ![Nuage de mot](https://github.com/Matheobranas/spaceinvaders/blob/master/Images/Nuage4.PNG)
 
+## Semaine n°3: du 11 au 17 Mai
+### SpaceInvaders_S5_Envahisseur
+#### Fonctionnalité n°5 : Ajouter un envahisseur dans le jeu
 
+Story n°1 : créer un envahisseur à l'initialisation du jeu
 
+Objectif : Crée un envahisseur
+
+Story n°2 faire en sorte que le jeu gère automatiquement le déplacement automatique de cet envahisseur
+
+Objectif : Faire faire des aller-retour a l'envahisseur
+
+--- Diagramme de classes ---
+![Diagramme de classe](https://github.com/Matheobranas/spaceinvaders/blob/master/Images/diagrammefonctionnalit%C3%A95.gif)
+
+--- Nuage de mot ---
+![Nuage de mot](https://github.com/Matheobranas/spaceinvaders/blob/master/Images/Motfonction5.PNG)
 
 
 
