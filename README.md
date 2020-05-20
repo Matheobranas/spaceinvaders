@@ -72,9 +72,11 @@ Story n°2 faire en sorte que le jeu gère automatiquement le déplacement autom
 Objectif : Faire faire des aller-retour a l'envahisseur
 
 --- Diagramme de classes ---
+
 ![Diagramme de classe](https://github.com/Matheobranas/spaceinvaders/blob/master/Images/diagrammefonctionnalit%C3%A95.gif)
 
 --- Nuage de mot ---
+
 ![Nuage de mot](https://github.com/Matheobranas/spaceinvaders/blob/master/Images/Motfonction5.PNG)
 
 
