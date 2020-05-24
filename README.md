@@ -59,7 +59,7 @@ J'ai eu pas mal de difficulté a faire la dernière partie (Story 5)
 
 ![Nuage de mot](https://github.com/Matheobranas/spaceinvaders/blob/master/Images/Nuage4.PNG)
 
-## Semaine n°3: du 11 au 17 Mai
+## Semaine n°5: du 11 au 17 Mai
 ### SpaceInvaders_S5_Envahisseur
 #### Fonctionnalité n°5 : Ajouter un envahisseur dans le jeu
 
@@ -79,5 +79,22 @@ Objectif : Faire faire des aller-retour a l'envahisseur
 
 ![Nuage de mot](https://github.com/Matheobranas/spaceinvaders/blob/master/Images/Motfonction5.PNG)
 
+## Semaine n°6: du 18 au 24 Mai
+### SpaceInvaders_S6_Envahisseur
+#### Fonctionnalité n°6 : Ajouter des collisions à l'envahisseur dans le jeu
+
+Story n°1 : Ajout d'une classe Collision
+
+Objectif : Crée des limites aux mouvements de l'envahisseur
+
+Story n°2 : Crée un test 
+
+Objectif : Faire un test pour qui correspond au code dans la classe collision
+
+--- Diagramme de classes ---
+![Diagramme de classe](https://github.com/Matheobranas/spaceinvaders/blob/master/Images/diagrammeF6.gif)
+
+--- Nuage de mot ---
+![Nuage de mot](https://github.com/Matheobranas/spaceinvaders/blob/master/Images/NuageF6.PNG)
 
 
