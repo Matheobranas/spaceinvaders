@@ -92,7 +92,7 @@ Story n°2 : Crée un test
 Objectif : Faire un test pour qui correspond au code dans la classe collision
 
 --- Diagramme de classes ---
-![Diagramme de classe](https://github.com/Matheobranas/spaceinvaders/blob/master/Images/diagrammeF6.gif)
+![Diagramme de classe](https://github.com/Matheobranas/spaceinvaders/blob/master/Images/DiagrammeF6.gif)
 
 --- Nuage de mot ---
 ![Nuage de mot](https://github.com/Matheobranas/spaceinvaders/blob/master/Images/NuageF6.PNG)
